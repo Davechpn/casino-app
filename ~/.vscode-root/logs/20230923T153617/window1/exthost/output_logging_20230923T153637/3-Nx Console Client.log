@@ -1,0 +1,20 @@
+[Nxls] - 2023-09-23T13:36:43.066Z - Retrieving workspace configuration
+
+[Nxls] - 2023-09-23T13:36:43.447Z - Using local Nx package at /Users/dave/projects/casinoapp/node_modules/nx/src/project-graph/file-utils.js
+
+[Nxls] - 2023-09-23T13:36:43.448Z - Using local Nx package at /Users/dave/projects/casinoapp/node_modules/nx/src/project-graph/project-graph.js
+
+[Nxls] - 2023-09-23T13:36:43.449Z - Using local Nx package at /Users/dave/projects/casinoapp/node_modules/nx/src/utils/output.js
+
+[Nxls] - 2023-09-23T13:36:43.452Z - Using local Nx package at /Users/dave/projects/casinoapp/node_modules/nx/src/project-graph/file-map-utils.js
+
+[Nxls] - 2023-09-23T13:36:43.470Z - createProjectGraphAsync
+
+[Nxls] - 2023-09-23T13:36:43.603Z - Unable to get project graph
+
+[Nxls] - 2023-09-23T13:36:43.603Z - Error: EACCES: permission denied, open '/Users/dave/projects/casinoapp/node_modules/.cache/nx/d/daemon.log'
+
+[Nxls] - 2023-09-23T13:36:43.604Z - Retrieved workspace configuration in: 537.3933600187302 ms
+
+[Nxls] - 2023-09-23T13:37:10.971Z - Unregistering file watcher
+

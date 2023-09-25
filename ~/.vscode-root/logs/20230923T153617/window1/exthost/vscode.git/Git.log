@@ -1,0 +1,46 @@
+2023-09-23 15:36:22.930 [info] Log level: Info
+2023-09-23 15:36:22.931 [info] Validating found git in: "/usr/bin/git"
+2023-09-23 15:36:23.004 [info] Using git "2.37.1 (Apple Git-137.1)" from "/usr/bin/git"
+2023-09-23 15:36:38.930 [info] Log level: Info
+2023-09-23 15:36:38.934 [info] Validating found git in: "/usr/bin/git"
+2023-09-23 15:36:39.017 [info] Using git "2.37.1 (Apple Git-137.1)" from "/usr/bin/git"
+2023-09-23 15:36:39.113 [info] > git rev-parse --show-toplevel [69ms]
+2023-09-23 15:36:39.113 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:39.154 [info] > git rev-parse --show-toplevel [35ms]
+2023-09-23 15:36:39.154 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:39.195 [info] > git rev-parse --show-toplevel [29ms]
+2023-09-23 15:36:39.195 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:39.232 [info] > git rev-parse --show-toplevel [30ms]
+2023-09-23 15:36:39.233 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:39.272 [info] > git rev-parse --show-toplevel [35ms]
+2023-09-23 15:36:39.272 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:41.492 [info] > git rev-parse --show-toplevel [27ms]
+2023-09-23 15:36:41.492 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:43.185 [info] > git rev-parse --show-toplevel [29ms]
+2023-09-23 15:36:43.185 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:36:44.869 [info] > git rev-parse --show-toplevel [34ms]
+2023-09-23 15:36:44.869 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp

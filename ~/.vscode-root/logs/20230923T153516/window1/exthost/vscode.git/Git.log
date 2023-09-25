@@ -1,0 +1,28 @@
+2023-09-23 15:35:19.965 [info] Log level: Info
+2023-09-23 15:35:19.965 [info] Validating found git in: "/usr/bin/git"
+2023-09-23 15:35:20.015 [info] Using git "2.37.1 (Apple Git-137.1)" from "/usr/bin/git"
+2023-09-23 15:35:53.256 [info] Log level: Info
+2023-09-23 15:35:53.257 [info] Validating found git in: "/usr/bin/git"
+2023-09-23 15:35:53.257 [info] Using git "2.37.1 (Apple Git-137.1)" from "/usr/bin/git"
+2023-09-23 15:35:53.276 [info] > git rev-parse --show-toplevel [43ms]
+2023-09-23 15:35:53.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-23 15:35:53.330 [info] > git rev-parse --show-toplevel [51ms]
+2023-09-23 15:35:53.331 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casino'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casino
+2023-09-23 15:35:53.532 [info] > git rev-parse --show-toplevel [61ms]
+2023-09-23 15:35:53.532 [info] fatal: detected dubious ownership in repository at '/Users/dave/projects/casinoapp'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/dave/projects/casinoapp
+2023-09-23 15:35:53.570 [info] > git rev-parse --show-toplevel [33ms]
+2023-09-23 15:35:53.603 [info] > git rev-parse --git-dir --git-common-dir [31ms]
+2023-09-23 15:35:53.620 [info] Open repository: /Users/dave/projects/starfish-mobile
+2023-09-23 15:35:53.726 [info] > git config --get commit.template [66ms]
+2023-09-23 15:35:53.857 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/bugfixes refs/remotes/bugfixes [66ms]
+2023-09-23 15:35:53.987 [info] > git status -z -uall [125ms]
+2023-09-23 15:35:54.098 [info] > git config --get commit.template [72ms]
+2023-09-23 15:35:54.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/bugfixes refs/remotes/bugfixes [59ms]
+2023-09-23 15:35:54.158 [info] > git status -z -uall [56ms]
+2023-09-23 15:35:54.618 [info] > git check-ignore -v -z --stdin [84ms]

@@ -1,0 +1,6 @@
+{
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+        "file:///Users/dave/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ]
+}
