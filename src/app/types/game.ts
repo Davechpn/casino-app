@@ -20,5 +20,5 @@ export interface SortValueType {
   order: string;
 }
 
-export const GAMES = 'users';
+export const GAMES = 'games';
 export type GAMES = typeof GAMES;
